@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "RoboByTegha2",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "RoboByTegha2",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "HakiMaTimTim.aternos.me",
+    "port": 43156,
     "version": "",
     "try-creative": false
   },
@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Subscribe to LockedInWithAI!",
+        "black men must die - TeghaDon"
       ]
     },
     "chat-log": true,
